@@ -10,7 +10,14 @@ nil
 end
 
 def find_max_value(array)
+  x = 0 
   
+  array.length.times do 
+    if array[index] > x 
+      
+      x = array[index]
+    
+  end
   
 end
 
